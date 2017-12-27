@@ -1,0 +1,17 @@
+#regform {
+  width: 250px;
+  height: 450px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+}
+
+label {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#username, #email {
+  padding-bottom: 5px;
+}

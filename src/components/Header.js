@@ -1,10 +1,10 @@
 import React from 'react';
-import './header.css';
+import './Header.css';
 
 export default function Header() {
   return (
     <header>
-      <h1>{props.pageView}</h1>
+      <h1>Register</h1>
     </header>
   )
 }
