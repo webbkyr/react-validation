@@ -15,3 +15,9 @@ label {
 #username, #email {
   padding-bottom: 5px;
 }
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+}
